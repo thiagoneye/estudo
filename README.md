@@ -13,3 +13,6 @@ Em 2020 migrei para a linguagem Python.
 
 Marca: Acer
 Modelo: Aspire 5
+# Rebase
+
+Teste
