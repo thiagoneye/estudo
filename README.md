@@ -21,3 +21,7 @@ Teste
 # Exercício
 
 Criação de nova feature
+
+# Engenharia de Dados
+
+É a área que trata da transformação dos dados brutos.
