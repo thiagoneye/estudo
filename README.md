@@ -12,4 +12,4 @@ Em 2020 migrei para a linguagem Python.
 ## Informações sobre o meu computador
 
 Marca: Acer
-Modedlo: Aspire 5
+Modelo: Aspire 5
