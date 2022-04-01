@@ -13,9 +13,18 @@ Em 2020 migrei para a linguagem Python.
 
 Marca: Acer
 Modelo: Aspire 5
+
 # Rebase
 
 Teste
+
+# Exercício
+
+Criação de nova feature
+
+# Engenharia de Dados
+
+É a área que trata da transformação dos dados brutos.
 
 # Feature 2
 
