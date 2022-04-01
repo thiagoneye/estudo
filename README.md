@@ -16,3 +16,7 @@ Modelo: Aspire 5
 # Rebase
 
 Teste
+
+# Feature 2
+
+Esse é o terceiro exercício da última aula sobre Git/GitHub
